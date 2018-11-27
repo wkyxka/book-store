@@ -1,0 +1,19 @@
+img {
+  //width: 50%;
+}
+* {
+  font-family: "PingFang SC";
+}
+.van-tabbar-item--active {
+  color:rgb(12,135,109);
+}
+.main {
+  margin-bottom: 50px;
+}
+.van-tabs__wrap::after{
+  border:none;
+}
+.van-ellipsis {
+  font-size: 18px;
+}
+
